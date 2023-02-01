@@ -62,7 +62,7 @@ function filter(array) {
       nuevoArray.push(array[i])
     }
   }
-  return nuevoArray;  
+  return nuevoArray; 
 }
 
 // No modificar nada debajo de esta línea
