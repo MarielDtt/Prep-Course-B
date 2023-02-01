@@ -59,7 +59,7 @@ function filter(array) {
   nuevoArray= [];
   for(var i= 0; i< array.length; i++){
     if(array[i][0] === "a"){
-      nuevoArray.push(array[i])
+      nuevoArray.push(array[i]);
     }
   }
   return nuevoArray; 
